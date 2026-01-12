@@ -1,4 +1,5 @@
 Digital Twin Anomaly Detection System
+
 This project was developed as part of our 5th semester coursework to explore anomaly detection techniques in IoT sensor data using machine learning algorithms.
 
 What does it do?
@@ -103,5 +104,6 @@ pandas and NumPy for data handling
 scikit-learn for the ML algorithms
 matplotlib and seaborn for visualizations
 tkinter for the GUI
+
 
 
