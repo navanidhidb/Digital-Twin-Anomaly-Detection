@@ -1,10 +1,13 @@
 Digital Twin Anomaly Detection System
 This project was developed as part of our 5th semester coursework to explore anomaly detection techniques in IoT sensor data using machine learning algorithms.
+
 What does it do?
-We built a system that analyzes sensor data from a digital twin environment and identifies unusual patterns or anomalies. The system combines two different detection methods - Isolation Forest and DBSCAN - to get better accuracy than using just one algorithm alone.
+We have built a system that analyzes sensor data from a digital twin environment and identifies unusual patterns or anomalies. The system combines two different detection methods - Isolation Forest and DBSCAN - to get better accuracy than using just one algorithm alone.
 We also created a simple GUI application so anyone can run the analysis without writing code themselves.
+
 Why this project?
 Digital twins are becoming increasingly important in manufacturing and industrial IoT. Being able to detect anomalies in real-time sensor data helps prevent equipment failures and maintain optimal operating conditions. We wanted to explore how combining different ML algorithms could improve detection accuracy.
+
 Main Features
 
 Pipeline-based approach with 8 distinct processing steps
@@ -100,4 +103,5 @@ pandas and NumPy for data handling
 scikit-learn for the ML algorithms
 matplotlib and seaborn for visualizations
 tkinter for the GUI
+
 
